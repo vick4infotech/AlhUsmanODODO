@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-12-31</lastmod>
+  </url>
+  <url>
+    <loc>/profile</loc>
+    <lastmod>2025-12-31</lastmod>
+  </url>
+  <url>
+    <loc>/achievements</loc>
+    <lastmod>2025-12-31</lastmod>
+  </url>
+  <url>
+    <loc>/awards</loc>
+    <lastmod>2025-12-31</lastmod>
+  </url>
+  <url>
+    <loc>/vision</loc>
+    <lastmod>2025-12-31</lastmod>
+  </url>
+  <url>
+    <loc>/media</loc>
+    <lastmod>2025-12-31</lastmod>
+  </url>
+</urlset>

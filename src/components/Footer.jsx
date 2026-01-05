@@ -123,8 +123,7 @@ export default function Footer() {
               All rights reserved.
             </div>
             <div className="text-xs text-white/60">
-              Built with a premium, responsive and search friendly design.
-            </div>
+           </div>
           </div>
         </div>
       </div>

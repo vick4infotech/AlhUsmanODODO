@@ -96,11 +96,11 @@ export default function Footer() {
                 </div>
                 <div className="flex items-start gap-3">
                   <Phone size={16} className="mt-0.5 text-kogi-gold" />
-                  <div>Telephone: Placeholder</div>
+                  <div>Telephone: 09063251104</div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Mail size={16} className="mt-0.5 text-kogi-gold" />
-                  <div>Email: media placeholder</div>
+                  <div>Email: victor.hicroft@outlook.com</div>
                 </div>
                 <div className="mt-5 rounded-2xl bg-white/10 p-4 ring-1 ring-white/15">
                   <div className="text-xs font-bold uppercase tracking-wide text-white/70">

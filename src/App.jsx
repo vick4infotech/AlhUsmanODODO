@@ -12,6 +12,9 @@ import Awards from "./pages/Awards";
 import Vision from "./pages/Vision";
 import Media from "./pages/Media";
 import NotFound from "./pages/NotFound";
+import News from "./pages/News";
+import NewsArticle from "./pages/NewsArticle";
+import Login from "./pages/Login";
 
 const pageVariants = {
   initial: { opacity: 0, y: 12 },
@@ -44,6 +47,9 @@ export default function App() {
               <Route path="/awards" element={<Awards />} />
               <Route path="/vision" element={<Vision />} />
               <Route path="/media" element={<Media />} />
+              <Route path="/news" element={<News />} />
+              <Route path="/news/:slug" element={<NewsArticle />} />
+              <Route path="/login" element={<Login />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </motion.div>

@@ -42,7 +42,7 @@ export default function Vision() {
                   <div className="relative">
                     {/* Pexels source: https://www.pexels.com/photo/a-man-standing-in-front-of-a-government-building-17366012/ */}
                     <img
-                      src="/images/government-building.jpg"
+                      src="/images/kogi-audit-house.jpg"
                       alt="Public institution"
                       className="h-48 w-full object-cover"
                       loading="lazy"

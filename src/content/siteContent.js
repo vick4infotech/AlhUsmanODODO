@@ -83,7 +83,7 @@ export const achievementsPreview = {
         "Healthcare and education priorities focused on frontline services, outcomes, and opportunity for every community.",
       icon: "HeartPulse",
       // Pexels source: https://www.pexels.com/photo/happy-graduating-student-30683907/
-      image: "/images/youth-graduation.jpg"
+      image: "/images/kogi-students.jpg"
     },
     {
       title: "Infrastructure",
@@ -209,7 +209,7 @@ export const achievements = {
         "Partnerships that expand local value chains"
       ],
       // Pexels source: https://www.pexels.com/photo/group-of-people-seated-around-a-table-having-a-discussion-3184311/
-      image: "/images/leadership-meeting.jpg"
+      image: "/images/kogi-audit-house.jpg"
     },
     {
       id: "infrastructure",
@@ -237,7 +237,7 @@ export const achievements = {
         "Continued upgrades of additional facilities to raise access and quality"
       ],
       // Pexels source: https://www.pexels.com/photo/photo-of-medical-team-6129507/
-      image: "/images/health-team.jpg"
+      image: "/images/health-2.jpg"
     },
     {
       id: "education",
@@ -251,7 +251,7 @@ export const achievements = {
         "Skills and employability focus for young people"
       ],
       // Pexels source: https://www.pexels.com/photo/classroom-learning-28593054/
-      image: "/images/education-classroom.jpg"
+      image: "/images/kogi-classroom-visit.jpg"
     },
     {
       id: "agriculture",
@@ -293,7 +293,7 @@ export const achievements = {
         "Youth skills, enterprise support, and community empowerment programmes"
       ],
       // Pexels source: https://www.pexels.com/photo/happy-graduating-student-30683907/
-      image: "/images/youth-graduation.jpg"
+      image: "/images/kogi-students.jpg"
     }
   ],
   stats: [
@@ -402,6 +402,18 @@ export const media = {
     "A visual archive of governance focus areas: projects, people, and public service activity.",
   items: [
     {
+      src: "/images/kogi-school-building.jpg",
+      title: "School building",
+      category: "Education",
+      caption: "A school building pictured in the supplied Kogi State photo collection."
+    },
+    {
+      src: "/images/kogi-computer-centre.jpg",
+      title: "Digital learning facility",
+      category: "Education",
+      caption: "Computer workstations and a digital learning facility from the supplied photographs."
+    },
+    {
       src: "/images/ododo-portrait.jpg",
       title: "Official portrait",
       category: "Portrait",
@@ -418,15 +430,15 @@ export const media = {
     },
     {
       // Pexels source: https://www.pexels.com/photo/photo-of-medical-team-6129507/
-      src: "/images/health-team.jpg",
-      title: "Healthcare professionals",
+      src: "/images/health-2.jpg",
+      title: "Community healthcare",
       category: "Healthcare",
       caption:
         "Primary health care delivery relies on skilled teams, equipment, and well managed facilities."
     },
     {
       // Pexels source: https://www.pexels.com/photo/classroom-learning-28593054/
-      src: "/images/education-classroom.jpg",
+      src: "/images/kogi-classroom-visit.jpg",
       title: "Learning environment",
       category: "Education",
       caption:
@@ -442,7 +454,7 @@ export const media = {
     },
     {
       // Pexels source: https://www.pexels.com/photo/central-bank-of-nigeria-building-in-uyo-akwa-ibom-nigeria-17366012/
-      src: "/images/government-building.jpg",
+      src: "/images/kogi-audit-house.jpg",
       title: "Public infrastructure",
       category: "Governance",
       caption:
@@ -450,11 +462,11 @@ export const media = {
     },
     {
       // Pexels source: https://www.pexels.com/photo/group-of-people-seated-around-a-table-having-a-discussion-3184311/
-      src: "/images/leadership-meeting.jpg",
-      title: "Leadership meeting",
+      src: "/images/kogi-classroom-visit.jpg",
+      title: "School engagement",
       category: "Governance",
       caption:
-        "Strategy, coordination, and accountability drive results across government."
+        "Engagement with learners and educators supports practical education planning."
     },
     {
       // Pexels source: https://www.pexels.com/photo/smiling-nigerian-police-officer-in-uniform-outdoors-32185187/
@@ -466,7 +478,7 @@ export const media = {
     },
     {
       // Pexels source: https://www.pexels.com/photo/happy-graduating-student-30683907/
-      src: "/images/youth-graduation.jpg",
+      src: "/images/kogi-students.jpg",
       title: "Youth advancement",
       category: "Youth",
       caption:

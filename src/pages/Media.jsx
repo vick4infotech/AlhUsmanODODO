@@ -28,15 +28,15 @@ export default function Media() {
                   </h2>
                   <p className="mt-3 text-sm leading-6 text-black/70">
                     Browse images by category. Click any image to open a lightbox for full viewing.
-                    All general imagery on this site is royalty free and sourced from Pexels.
+                    Featuring images of public projects, education and community activities in Kogi State.
                   </p>
                 </div>
                 <div className="lg:col-span-5">
                   {/* Pexels source: https://www.pexels.com/photo/group-of-people-seated-around-a-table-having-a-discussion-3184311/ */}
                   <div className="overflow-hidden rounded-2xl ring-1 ring-black/5">
                     <img
-                      src="/images/leadership-meeting.jpg"
-                      alt="Leadership meeting"
+                      src="/images/kogi-classroom-visit.jpg"
+                      alt="School classroom visit in Kogi State"
                       className="h-52 w-full object-cover"
                       loading="lazy"
                     />

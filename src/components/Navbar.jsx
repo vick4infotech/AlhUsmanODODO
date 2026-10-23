@@ -10,7 +10,8 @@ const nav = [
   { to: "/achievements", label: "Governance and Achievements" },
   { to: "/awards", label: "Awards and Recognition" },
   { to: "/vision", label: "Vision and Future Agenda" },
-  { to: "/media", label: "Media and Gallery" }
+  { to: "/media", label: "Media and Gallery" },
+  { to: "/news", label: "News" }
 ];
 
 function NavItem({ to, label, onClick }) {
